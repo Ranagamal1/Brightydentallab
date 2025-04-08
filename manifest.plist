@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>url</key>
+            <string>https://Ranagamal1.github.io/Brightydentallab/BrightyDentalLab.ipa</string>
+            <key>kind</key>
+            <string>software-package</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.example.BrightyDentalLab2025</string>
+          <key>bundle-version</key>
+          <string>1.0.0</string>
+          <key>kind</key>
+          <string>software</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
